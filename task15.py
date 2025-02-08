@@ -1,0 +1,5 @@
+distancecm=float(input())
+print(distancecm/(2.54*12*3), 'ярдов')
+print(distancecm/(2.54*12*3*1760), 'мили')
+print(distancecm/(2.54*12), 'футов')
+print(distancecm/2.54, 'дюймов')
